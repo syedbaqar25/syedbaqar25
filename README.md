@@ -111,11 +111,8 @@ const syedBaqar = {
 
 ## ⏱️ Weekly Coding Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&border_color=00FFB3&title_color=00FFB3&icon_color=00FFB3&layout=compact&langs_count=10" />
-</div>
-
-> Replace `YOUR_WAKATIME_USERNAME` above with your username from [wakatime.com](https://wakatime.com) and set your profile to **public** in WakaTime settings.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
