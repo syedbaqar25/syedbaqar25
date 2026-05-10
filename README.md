@@ -39,46 +39,33 @@ const syedBaqar = {
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
 </p>
 
 ### ⚛️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Hooks-20232A?style=for-the-badge&logo=react&logoColor=00FFB3" />
-  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" />
 </p>
 
 ### 🖥️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 ### ☁️ AWS Serverless Stack
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=Amazon+DynamoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=232F3E" height="48" />
+  <img src="https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white&labelColor=232F3E" height="48" />
+  <img src="https://img.shields.io/badge/-Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white&labelColor=232F3E" height="48" />
+  <img src="https://img.shields.io/badge/-KMS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=232F3E" height="48" />
 </p>
 
 ### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode,linux&theme=dark" />
 </p>
 
 ### 🏆 Certifications
