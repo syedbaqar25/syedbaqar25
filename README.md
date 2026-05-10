@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1410,100:0f0f0f&height=220&section=header&text=Sayed%20Baqar%20Abbas&fontSize=62&fontColor=f5f0e8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AWS%20Serverless%20%7C%20NPTEL%20Elite&descAlignY=58&descSize=15&descColor=e8c882&fontFamily=Playfair+Display" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1410,100:0f0f0f&height=220&section=header&text=Sayed%20Baqar%20Abbas&fontSize=60&fontColor=f5f0e8&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Final-Year%20CS%20Undergrad%20%7C%20AWS%20Serverless&descAlignY=58&descSize=16" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=2800&pause=1000&color=e8c882&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+AWS+Serverless;Building+production-grade+cloud+apps;Open+to+developer+roles+%E2%80%94+let%27s+connect" alt="Typing SVG" />
