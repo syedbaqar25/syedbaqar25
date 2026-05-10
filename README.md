@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Syed%20Baqar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Syed%20Baqar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Final-Year%20CS%20Undergrad%20%7C%20AWS%20Serverless&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Syed+Baqar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+TypeScript+%7C+Python+%7C+Java;DevOps+%7C+Cloud+%7C+Kubernetes+%7C+Docker;Building+cool+stuff+one+commit+at+a+time+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing+together!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Syed+Baqar+%F0%9F%91%8B;Final-Year+CS+Undergrad+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+AWS+Serverless;Lambda+%7C+DynamoDB+%7C+Cognito+%7C+API+Gateway;NPTEL+Elite+%E2%80%94+Cloud+IoT+Edge+ML+(IIT+Kanpur)+%F0%9F%8F%86;Building+production-grade+cloud-native+apps+%E2%9C%A8;Open+to+developer+roles+%E2%80%94+let%27s+connect!+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,11 +23,14 @@
 ```javascript
 const syedBaqar = {
   role:       "Full Stack Developer",
-  languages:  ["JavaScript", "TypeScript", "Python", "Java", "Kotlin"],
-  devops:     ["Docker", "Kubernetes", "GitHub Actions", "AWS", "GCP"],
-  interests:  ["Open Source", "System Design", "Cloud Native", "Automation"],
-  currentFocus: "Building scalable distributed systems",
-  funFact:    "I turn ☕ coffee into 💻 code daily",
+  education:  "Final-Year B.Tech — Computer Science",
+  frontend:   ["React.js", "Hooks", "Context API", "Component Architecture"],
+  backend:    ["Node.js", "REST APIs", "Serverless Functions"],
+  cloud:      ["AWS Lambda", "DynamoDB", "Cognito", "KMS", "API Gateway"],
+  certified:  "NPTEL Elite — Cloud IoT Edge ML  (IIT Kanpur)",
+  experience: "Production-grade, cloud-native web applications",
+  seeking:    "Developer role to build scalable, impactful solutions",
+  funFact:    "I turn ☕ coffee into ☁️ cloud functions",
 };
 ```
 
@@ -38,38 +41,50 @@ const syedBaqar = {
 ### 💬 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### ⚛️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Hooks-20232A?style=for-the-badge&logo=react&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🖥️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ AWS Serverless Stack
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=Amazon+DynamoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🏆 Certifications
+<p>
+  <img src="https://img.shields.io/badge/NPTEL_Elite-Cloud_IoT_Edge_ML-00FFB3?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT_Kanpur-Certified-FF9900?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 ---
