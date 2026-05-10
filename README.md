@@ -137,29 +137,11 @@ No activity tracked
 
 ---
 
-## 🌐 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/3d-contrib/profile-night-rainbow.svg" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syedbaqar25&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
-
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinan.com/api?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=00FFB3&bar_color_cover=false" width="400" />
-</div>
-
-> **2-min setup:** Go to [spotify-github-profile.kittinan.com](https://spotify-github-profile.kittinan.com/login) → Login with Spotify → copy your image URL → replace the `src` above.
 
 ---
 
