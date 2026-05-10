@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Syed%20Baqar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Final-Year%20CS%20Undergrad%20%7C%20AWS%20Serverless&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sayed%20Baqar%20Abbas&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Final-Year%20CS%20Undergrad%20%7C%20AWS%20Serverless&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Syed+Baqar+%F0%9F%91%8B;Final-Year+CS+Undergrad+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+AWS+Serverless;Lambda+%7C+DynamoDB+%7C+Cognito+%7C+API+Gateway;NPTEL+Elite+%E2%80%94+Cloud+IoT+Edge+ML+(IIT+Kanpur)+%F0%9F%8F%86;Building+production-grade+cloud-native+apps+%E2%9C%A8;Open+to+developer+roles+%E2%80%94+let%27s+connect!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Syed+Baqar+%F0%9F%91%8B;Final-Year+CS+Undergrad+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+AWS+Serverless;Lambda+%7C+DynamoDB+%7C+Cognito+%7C+API+Gateway;NPTEL+Elite+%E2%80%94+Cloud+IoT+Edge+ML+(IIT+Kanpur)+%F0%9F%8F%86;Building+production-grade+cloud-native+apps+%E2%9C%A8;Open+to+developer+roles+%E2%80%94+let%27s+connect!+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,16 +24,16 @@
 
 ```javascript
 const syedBaqar = {
-  role:       "Full Stack Developer",
+  role:       "Full Stack Web Developer",
   education:  "Final-Year B.Tech — Computer Science",
   frontend:   ["React.js", "Hooks", "Context API"],
   backend:    ["Node.js", "REST APIs", "Serverless"],
   cloud:      ["AWS Lambda", "DynamoDB", "Cognito",
                "KMS", "API Gateway"],
-  certified:  "NPTEL Elite — Cloud IoT Edge ML (IIT Kanpur)",
+  certified:  "NPTEL Elite Certification— Cloud IoT Edge ML (IIT Kanpur)",
   experience: "Production-grade cloud-native web apps",
   seeking:    "Developer role to build scalable solutions",
-  funFact:    "I turn ☕ into ☁️ cloud functions",
+  funFact:    "I turn ☕cofee into ☁️ cloud functions",
 };
 ```
 
@@ -94,46 +94,6 @@ const syedBaqar = {
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedbaqar25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FFB3&icon_color=00FFB3&title_color=00FFB3" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedbaqar25&layout=compact&langs_count=8&theme=tokyonight&border_color=00FFB3&title_color=00FFB3" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedbaqar25&theme=tokyonight&border=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&sideLabels=00FFB3" alt="GitHub Streak" />
-</div>
-
----
-
-## ⏱️ Weekly Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=syedbaqar25&theme=tokyonight&border_color=00FFB3&title_color=00FFB3&icon_color=00FFB3&layout=compact&langs_count=10" />
-</div>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 May 2026 - To: 09 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## 📊 Detailed Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/metrics.svg" />
-</div>
 
 ---
 
