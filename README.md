@@ -20,19 +20,24 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 ```javascript
 const syedBaqar = {
   role:       "Full Stack Developer",
   education:  "Final-Year B.Tech — Computer Science",
-  frontend:   ["React.js", "Hooks", "Context API", "Component Architecture"],
-  backend:    ["Node.js", "REST APIs", "Serverless Functions"],
-  cloud:      ["AWS Lambda", "DynamoDB", "Cognito", "KMS", "API Gateway"],
-  certified:  "NPTEL Elite — Cloud IoT Edge ML  (IIT Kanpur)",
-  experience: "Production-grade, cloud-native web applications",
-  seeking:    "Developer role to build scalable, impactful solutions",
-  funFact:    "I turn ☕ coffee into ☁️ cloud functions",
+  frontend:   ["React.js", "Hooks", "Context API"],
+  backend:    ["Node.js", "REST APIs", "Serverless"],
+  cloud:      ["AWS Lambda", "DynamoDB", "Cognito",
+               "KMS", "API Gateway"],
+  certified:  "NPTEL Elite — Cloud IoT Edge ML (IIT Kanpur)",
+  experience: "Production-grade cloud-native web apps",
+  seeking:    "Developer role to build scalable solutions",
+  funFact:    "I turn ☕ into ☁️ cloud functions",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -76,6 +81,20 @@ const syedBaqar = {
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/syedbaqar25/GrowMaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=GrowMaster&theme=tokyonight&border_color=00FFB3&title_color=00FFB3&icon_color=00FFB3&show_description=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/syedbaqar25/My-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=My-Portfolio&theme=tokyonight&border_color=00FFB3&title_color=00FFB3&icon_color=00FFB3&show_description=true" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,6 +109,32 @@ const syedBaqar = {
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&border_color=00FFB3&title_color=00FFB3&icon_color=00FFB3&layout=compact&langs_count=10" />
+</div>
+
+> Replace `YOUR_WAKATIME_USERNAME` above with your username from [wakatime.com](https://wakatime.com) and set your profile to **public** in WakaTime settings.
+
+---
+
+## 📊 Detailed Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/metrics.svg" />
+</div>
+
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -98,11 +143,13 @@ const syedBaqar = {
 
 ---
 
-## 📈 Contribution Activity
+## 🎵 Spotify Now Playing
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedbaqar25&bg_color=1a1b27&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true" />
+  <img src="https://spotify-github-profile.kittinan.com/api?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=00FFB3&bar_color_cover=false" width="400" />
 </div>
+
+> **2-min setup:** Go to [spotify-github-profile.kittinan.com](https://spotify-github-profile.kittinan.com/login) → Login with Spotify → copy your image URL → replace the `src` above.
 
 ---
 

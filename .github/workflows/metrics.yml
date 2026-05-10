@@ -1,0 +1,30 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"   # every Sunday at 6am UTC
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: syedbaqar25
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          filename: metrics.svg
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics [skip ci]"
