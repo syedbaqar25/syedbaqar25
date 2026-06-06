@@ -1,10 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,40:1a1410,80:1a1208,100:0f0f0f&height=240&section=header&text=Sayed%20Baqar%20Abbas&fontSize=58&fontColor=e8c882&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=60&descSize=17&descColor=c4a96a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayed%20Baqar%20Abbas&fontSize=58&fontColor=e8c882&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=58&descSize=17&descColor=c4a96a" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=e8c882&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Cloud%20Developer%20Roles-e8c882?style=for-the-badge&labelColor=1a1a1a&color=e8c882" alt="Open to Work" />
