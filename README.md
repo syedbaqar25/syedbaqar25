@@ -1,30 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayed%20Baqar%20Abbas&fontSize=58&fontColor=e8c882&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=58&descSize=17&descColor=c4a96a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayed%20Baqar%20Abbas&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=58&descSize=17&descColor=bae6fd" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=e8c882&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Cloud%20Developer%20Roles-e8c882?style=for-the-badge&labelColor=1a1a1a&color=e8c882" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Cloud%20Developer%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Work" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/syedbaqar25">
-    <img src="https://komarev.com/ghpvc/?username=syedbaqar25&label=Profile+Views&color=e8c882&style=flat-square&labelColor=1a1a1a" />
+    <img src="https://komarev.com/ghpvc/?username=syedbaqar25&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
   </a>
   &nbsp;
   <a href="https://github.com/syedbaqar25?tab=followers">
-    <img src="https://img.shields.io/github/followers/syedbaqar25?label=Followers&style=flat-square&color=e8c882&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/github/followers/syedbaqar25?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-e8c882?style=flat-square&logo=linkedin&logoColor=e8c882&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
   <a href="mailto:sayedbaqarabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayedbaqarabbas%40gmail.com-e8c882?style=flat-square&logo=gmail&logoColor=e8c882&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Email-sayedbaqarabbas%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
 </div>
 
@@ -63,7 +63,7 @@ const sayedBaqar = {
 
 <div align="center">
 
-[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=SyncMind-Ai&theme=gruvbox&border_color=e8c882&title_color=e8c882&icon_color=e8c882&text_color=f5f0e8&bg_color=0f0f0f)](https://github.com/syedbaqar25/SyncMind-Ai)
+[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=SyncMind-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/SyncMind-Ai)
 
 </div>
 
@@ -84,7 +84,7 @@ const sayedBaqar = {
 
 <div align="center">
 
-[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=cloudrecords&theme=gruvbox&border_color=e8c882&title_color=e8c882&icon_color=e8c882&text_color=f5f0e8&bg_color=0f0f0f)](https://github.com/syedbaqar25/cloudrecords)
+[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=cloudrecords&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/cloudrecords)
 
 </div>
 
@@ -120,20 +120,20 @@ const sayedBaqar = {
 <p>
   <img src="https://skillicons.dev/icons?i=aws,cloudflare,github&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white&labelColor=1a1a1a" height="46" />
+  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
 </p>
 
 ### AI & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-Pinecone-00D4AA?style=flat-square&logo=pinecone&logoColor=white&labelColor=1a1a1a" height="46" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=1a1a1a" height="46" />
+  <img src="https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Pinecone-00D4AA?style=flat-square&logo=pinecone&logoColor=white&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Prisma-7dd3fc?style=flat-square&logo=prisma&logoColor=0d1117&labelColor=0a2a3a" height="46" />
 </p>
 
 ### Dev Tools
@@ -143,9 +143,9 @@ const sayedBaqar = {
 
 ### Certifications
 <p>
-  <img src="https://img.shields.io/badge/NPTEL_Elite-Cloud%20IoT%20Edge%20ML-e8c882?style=for-the-badge&logo=google-cloud&logoColor=1a1a1a&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/NPTEL_Elite-Cloud%20IoT%20Edge%20ML-7dd3fc?style=for-the-badge&logo=google-cloud&logoColor=0d1117&labelColor=0a2a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IIT_Kanpur-Certified-f5f0e8?style=for-the-badge&logo=academia&logoColor=1a1a1a&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/IIT_Kanpur-Certified-bae6fd?style=for-the-badge&logo=academia&logoColor=0d1117&labelColor=0d3347" />
 </p>
 
 ---
@@ -153,15 +153,15 @@ const sayedBaqar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedbaqar25&show_icons=true&theme=gruvbox&border_color=e8c882&title_color=e8c882&icon_color=e8c882&text_color=f5f0e8&bg_color=0f0f0f&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedbaqar25&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedbaqar25&layout=compact&theme=gruvbox&border_color=e8c882&title_color=e8c882&text_color=f5f0e8&bg_color=0f0f0f&hide_border=false&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedbaqar25&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=syedbaqar25&theme=dark&background=0f0f0f&border=e8c882&ring=e8c882&fire=e8c882&currStreakLabel=e8c882&sideLabels=e8c882&dates=9e9e9e&currStreakNum=f5f0e8&sideNums=f5f0e8" />
+  <img src="https://streak-stats.demolab.com?user=syedbaqar25&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
 </div>
 
 ---
@@ -169,7 +169,7 @@ const sayedBaqar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedbaqar25&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syedbaqar25&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -177,7 +177,7 @@ const sayedBaqar = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedbaqar25&bg_color=0f0f0f&color=e8c882&line=e8c882&point=f5f0e8&area=true&hide_border=false&border_color=e8c882&area_color=1a1410" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedbaqar25&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
 </div>
 
 ---
@@ -201,34 +201,34 @@ const sayedBaqar = {
 
 <div align="center">
   <a href="https://github.com/syedbaqar25">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
   </a>
   &nbsp;
   <a href="mailto:sayedbaqarabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
   </a>
   &nbsp;
   <a href="https://syncmindai.live">
-    <img src="https://img.shields.io/badge/syncmindai.live-1a1a1a?style=for-the-badge&logo=lightning&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/syncmindai.live-0a2a3a?style=for-the-badge&logo=lightning&logoColor=7dd3fc" />
   </a>
   &nbsp;
   <a href="https://cloudrecords.live">
-    <img src="https://img.shields.io/badge/cloudrecords.live-1a1a1a?style=for-the-badge&logo=cloudflare&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/cloudrecords.live-0a2a3a?style=for-the-badge&logo=cloudflare&logoColor=7dd3fc" />
   </a>
   &nbsp;
   <a href="https://x.com/syed__baqar">
-    <img src="https://img.shields.io/badge/Twitter%2FX-1a1a1a?style=for-the-badge&logo=x&logoColor=e8c882" />
+    <img src="https://img.shields.io/badge/Twitter%2FX-0a2a3a?style=for-the-badge&logo=x&logoColor=7dd3fc" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1410,100:0f0f0f&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
